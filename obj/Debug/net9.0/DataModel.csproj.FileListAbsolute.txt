@@ -9,3 +9,4 @@ D:\dev\DataModel\obj\Debug\net9.0\DataModel.dll
 D:\dev\DataModel\obj\Debug\net9.0\refint\DataModel.dll
 D:\dev\DataModel\obj\Debug\net9.0\DataModel.pdb
 D:\dev\DataModel\obj\Debug\net9.0\ref\DataModel.dll
+D:\dev\DataModel\obj\Debug\net9.0\DataModel.sourcelink.json
